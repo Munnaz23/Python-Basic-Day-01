@@ -1,0 +1,5 @@
+print('Kopa python kopa')
+print("python re dhore felsi, mammmaaaa!!!")
+print(1111)
+print(2345)
+print("Ami vat khabo nah karon ami birani khabo")
